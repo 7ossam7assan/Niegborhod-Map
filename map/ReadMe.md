@@ -11,9 +11,9 @@ This Map to Show Best places in my neigborhod in Menoufia,Egypt
 * search text that filters list and markers according to category
 * Info window appears with name and weather when list item or marker is clicked
 
-# Steps 
+## How to Run
 
-simply download project unzip it
+Clone repository and open index.html in any browser or visit my [GitHub Page](https://github.com/7ossam7assan/ho/tree/master/map)
 
 <strong> you Must have internet connection</strong>
 
