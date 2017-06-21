@@ -11,13 +11,6 @@ This Map to Show Best places in my neigborhod in Menoufia,Egypt
 * search text that filters list and markers according to category
 * Info window appears with name and weather when list item or marker is clicked
 
-# Requirments needed locally
-
-*Knockout.js
-*jquery.js
-*googleMaps API
-*documentation will help .
-
 # Steps 
 
 simply download project unzip it
