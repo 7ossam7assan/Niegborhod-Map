@@ -1,10 +1,10 @@
 # Udacity Project 5:Niegborhod Map
 
-# Description
+## Description
 
 This Map to Show Best places in my neigborhod in Menoufia,Egypt
 
-# Features
+## Features
 
 * Map displaying various animated markers
 * Sidebar displaying list with names of locations
@@ -19,13 +19,13 @@ Clone repository and open index.html in any browser or visit my [GitHub Page](ht
 
 Because i use urls to libraries that is not installed localy
 
-#Resources
+##Resources
 
 * [Knockout JS](http://knockoutjs.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [openweathermap](http://api.openweathermap.org)
 * [Google](https://google.com)<br>
 
-# Author
+### Author
 
 Hossam Hassan
